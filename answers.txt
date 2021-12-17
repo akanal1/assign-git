@@ -13,3 +13,5 @@ Branches help organize the workflow better. Since each developer in a team is wo
 
 •In a project how many remote Git repositories do you usually have?
 Usually, there is only 1 repository in a project. Although we can have as many remote repositories as we want, but only 1 can be the "origin".
+
+...........
